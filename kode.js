@@ -1,6 +1,7 @@
 console.log("Hello World!");
 
-const endpoint = "http://192.168.1.5";
+const endpoint = "http://smaga.local";
+
 
 function setAtas()
 {
